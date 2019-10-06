@@ -111,10 +111,12 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 for screen saver 1, i started with the LEDs lighting up from the bottom right and cascading to the top left, a button stops the amimation until button b is pushed which starts the animation back up.  the shake gesture displays a string that says screen saver and a smiley face in LED form tp end it.
 
 ### SS 2 
+screensaver 2 is based on a spiraling vortex, the outter layer is in a spinning formation while the middle 5 LEDs are acting as a middle flashing center of the vortex.  the button a stops the animation while the button b starts the animation from sleep.  if shaken a image comes up of a rock pn hand emphasizing that space rocks.
 
 _[And so on]_
 
 ## Demo URL
 
 ## SS 1 URL : https://imgur.com/gallery/ix6nN8u
+## SS 2 URL : http://imgur.com/gallery/CljaNTN
 
