@@ -113,10 +113,17 @@ for screen saver 1, i started with the LEDs lighting up from the bottom right an
 ### SS 2 
 screensaver 2 is based on a spiraling vortex, the outter layer is in a spinning formation while the middle 5 LEDs are acting as a middle flashing center of the vortex.  the button a stops the animation while the button b starts the animation from sleep.  if shaken a image comes up of a rock pn hand emphasizing that space rocks.
 
-_[And so on]_
+### SS 3
+
+### SS 4
+
+### SS 5
 
 ## Demo URL
 
 ## SS 1 URL : https://imgur.com/gallery/ix6nN8u
 ## SS 2 URL : http://imgur.com/gallery/CljaNTN
+## SS 3 URL :
+## SS 4 URL :
+## SS 5 URL :
 
