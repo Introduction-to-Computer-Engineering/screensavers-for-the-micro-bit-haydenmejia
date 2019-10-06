@@ -108,12 +108,13 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 ## Screensavers
 
 ### SS 1
-
-_[Your description of screensaver 1]_
+for screen saver 1, i started with the LEDs lighting up from the bottom right and cascading to the top left, a button stops the amimation until button b is pushed which starts the animation back up.  the shake gesture displays a string that says screen saver and a smiley face in LED form tp end it.
 
 ### SS 2 
 
 _[And so on]_
 
 ## Demo URL
+
+## SS 1 URL : https://imgur.com/gallery/ix6nN8u
 
