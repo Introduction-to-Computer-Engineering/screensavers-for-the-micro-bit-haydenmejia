@@ -114,16 +114,11 @@ for screen saver 1, i started with the LEDs lighting up from the bottom right an
 screensaver 2 is based on a spiraling vortex, the outter layer is in a spinning formation while the middle 5 LEDs are acting as a middle flashing center of the vortex.  the button a stops the animation while the button b starts the animation from sleep.  if shaken a image comes up of a rock pn hand emphasizing that space rocks.
 
 ### SS 3
-
-### SS 4
-
-### SS 5
+for this screensaver animation i implented a animation that is gradual build up to increase the speed of the moving led everytime it makes a full pass through all 25 LEDs. i am still implementing more code to this to make it more interactive, i want add when the led moves one forward i want it to take a step and then move up 2 spaces displaying the movement from up 1 led, back 1 led, up 2 led, back 1 led, and so on. and also add more gestures where the animation does a spin and adds more fun and interactive play to the microbit.
 
 ## Demo URL
 
 ## SS 1 URL : https://imgur.com/gallery/ix6nN8u
 ## SS 2 URL : http://imgur.com/gallery/CljaNTN
 ## SS 3 URL :
-## SS 4 URL :
-## SS 5 URL :
 
