@@ -116,6 +116,8 @@ screensaver 2 is based on a spiraling vortex, the outter layer is in a spinning 
 ### SS 3
 for this screensaver animation i implented a animation that is gradual build up to increase the speed of the moving led everytime it makes a full pass through all 25 LEDs. i am still implementing more code to this to make it more interactive, i want add when the led moves one forward i want it to take a step and then move up 2 spaces displaying the movement from up 1 led, back 1 led, up 2 led, back 1 led, and so on. and also add more gestures where the animation does a spin and adds more fun and interactive play to the microbit.
 
+i wrote 3 screensavers because the amount of code in each one and the 3rd screensaver having over 500 lines. if you need me to do the additional 2 screensavers still or need to implement more code, let me know please. thanks!
+
 ## Demo URL
 
 ## SS 1 URL : https://imgur.com/gallery/ix6nN8u
