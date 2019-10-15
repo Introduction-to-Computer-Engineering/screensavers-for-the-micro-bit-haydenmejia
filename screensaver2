@@ -1,10 +1,10 @@
-input.onButtonPressed(Button.A, function () {
+input.onButtonPressed(Button.A, function () { //stopping the animation
     led.enable(false)
 })
-input.onButtonPressed(Button.B, function () {
+input.onButtonPressed(Button.B, function () { //starting the animation back up from its sleep state
     led.enable(true)
 })
-input.onGesture(Gesture.Shake, function () {
+input.onGesture(Gesture.Shake, function () { //shake shows a animation 
     basic.showIcon(IconNames.Rabbit)
 })
 basic.forever(function () {
