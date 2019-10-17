@@ -1,10 +1,10 @@
-input.onButtonPressed(Button.A, function () {
+input.onButtonPressed(Button.A, function () { //giving button press a to stop animmation
     led.enable(false)
 })
-input.onButtonPressed(Button.B, function () {
+input.onButtonPressed(Button.B, function () { //button press b is animation back on
     led.enable(true)
 })
-input.onGesture(Gesture.Shake, function () {
+input.onGesture(Gesture.Shake, function () { // this gesture once shaken will show the string screen saver and then display a smiley face
     basic.showString("Screen Saver")
     basic.pause(100)
     basic.showLeds(`
@@ -15,7 +15,7 @@ input.onGesture(Gesture.Shake, function () {
         # # # # #
         `)
 })
-basic.forever(function () {
+basic.forever(function () {                //forver function of a gradual led build of of faster and faster until reaching maximam speed
     for (let i = 0; i < 2; i++) {
         for (let i = 0; i < 1; i++) {
             led.plot(0, 0)
