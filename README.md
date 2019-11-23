@@ -109,18 +109,17 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 for screen saver 1, i started with the LEDs lighting up from the bottom right and cascading to the top left, a button stops the amimation until button b is pushed which starts the animation back up.  the shake gesture displays a string that says screen saver and a smiley face in LED form tp end it.
-
+- file: [screensaver1](screensaver1)
+- demo: https://imgur.com/gallery/ix6nN8u
 ### SS 2 
 screensaver 2 is based on a spiraling vortex, the outter layer is in a spinning formation while the middle 5 LEDs are acting as a middle flashing center of the vortex.  the button a stops the animation while the button b starts the animation from sleep.  if shaken a image comes up of a rock pn hand emphasizing that space rocks.
+- file: [screensaver2](screensaver2)
+- demo: [http://imgur.com/gallery/CljaNTN]
 
 ### SS 3
 for this screensaver animation i implented a animation that is gradual build up to increase the speed of the moving led everytime it makes a full pass through all 25 LEDs. i am still implementing more code to this to make it more interactive, i want add when the led moves one forward i want it to take a step and then move up 2 spaces displaying the movement from up 1 led, back 1 led, up 2 led, back 1 led, and so on. and also add more gestures where the animation does a spin and adds more fun and interactive play to the microbit.
+- file: [screensaver3](screensaver3)
+- demoo: []()
 
-i wrote 3 screensavers because the amount of code in each one and the 3rd screensaver having over 500 lines. if you need me to do the additional 2 screensavers still or need to implement more code, let me know please. thanks!
 
-## Demo URL
-
-## SS 1 URL : https://imgur.com/gallery/ix6nN8u
-## SS 2 URL : http://imgur.com/gallery/CljaNTN
-## SS 3 URL :
 
